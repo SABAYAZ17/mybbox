@@ -1,0 +1,81 @@
+[
+
+{id:"1 الحلقة ",title:"<img src=' https://i.ytimg.com/vi/wgt_5KdfcwY/mqdefault.jpg' class=' BQ ' > <div style='position:absolute;right:10px;bottom:10px;background:#ff0000;color:#fff;padding:0px 5px;font-size:14x'> 1 الحلقة </div>",
+poster:" https://i.ytimg.com/vi/wgt_5KdfcwY/mqdefault.jpg ",
+file:"[lq]https://www.youtube.com/embed/VrghD3XxB_I&playlist?list=PLtWl2fmR7dOgTgkepFguPZM7q87is0oz3?enablejsapi=1&playerapiid=pljs_yt_mytube_player&fs=0&controls=0&showinfo=0&rel=0&autoplay=1&loop=0&mute=0&title=0&html5=0&disablekb=1&modestbranding=1&autohide=1&wmode=transparent&loop=0&byline=0&portrait=1&color=black&iv_load_policy=3&widgetid=1",hls:"0",qualities:"240p,720p"},
+
+{id:"2 الحلقة ",title:"<img src=' https://i.ytimg.com/vi/wgt_5KdfcwY/mqdefault.jpg' class=' BQ ' > <div style='position:absolute;right:10px;bottom:10px;background:#ff0000;color:#fff;padding:0px 5px;font-size:14x'> 2 الحلقة </div>",
+poster:" https://i.ytimg.com/vi/wgt_5KdfcwY/mqdefault.jpg ",
+file:"[lq]https://www.youtube.com/embed/7FhqqjVaS-o&playlist?list=PLtWl2fmR7dOgTgkepFguPZM7q87is0oz3?enablejsapi=1&playerapiid=pljs_yt_mytube_player&fs=0&controls=0&showinfo=0&rel=0&autoplay=1&loop=0&mute=0&title=0&html5=0&disablekb=1&modestbranding=1&autohide=1&wmode=transparent&loop=0&byline=0&portrait=1&color=black&iv_load_policy=3&widgetid=1",hls:"0",qualities:"240p,720p"},
+
+{id:"3 الحلقة ",title:"<img src=' https://i.ytimg.com/vi/wgt_5KdfcwY/mqdefault.jpg' class=' BQ ' > <div style='position:absolute;right:10px;bottom:10px;background:#ff0000;color:#fff;padding:0px 5px;font-size:14x'> 3 الحلقة </div>",
+poster:" https://i.ytimg.com/vi/wgt_5KdfcwY/mqdefault.jpg ",
+file:"[lq]https://www.youtube.com/embed/G8aXEDorgKE&playlist?list=PLtWl2fmR7dOgTgkepFguPZM7q87is0oz3?enablejsapi=1&playerapiid=pljs_yt_mytube_player&fs=0&controls=0&showinfo=0&rel=0&autoplay=1&loop=0&mute=0&title=0&html5=0&disablekb=1&modestbranding=1&autohide=1&wmode=transparent&loop=0&byline=0&portrait=1&color=black&iv_load_policy=3&widgetid=1",hls:"0",qualities:"240p,720p"},
+
+{id:"4 الحلقة ",title:"<img src=' https://i.ytimg.com/vi/wgt_5KdfcwY/mqdefault.jpg' class=' BQ ' > <div style='position:absolute;right:10px;bottom:10px;background:#ff0000;color:#fff;padding:0px 5px;font-size:14x'> 4 الحلقة </div>",
+poster:" https://i.ytimg.com/vi/wgt_5KdfcwY/mqdefault.jpg ",
+file:"[lq]https://www.youtube.com/embed/I3cj9HoSNwY&playlist?list=PLtWl2fmR7dOgTgkepFguPZM7q87is0oz3?enablejsapi=1&playerapiid=pljs_yt_mytube_player&fs=0&controls=0&showinfo=0&rel=0&autoplay=1&loop=0&mute=0&title=0&html5=0&disablekb=1&modestbranding=1&autohide=1&wmode=transparent&loop=0&byline=0&portrait=1&color=black&iv_load_policy=3&widgetid=1",hls:"0",qualities:"240p,720p"},
+
+{id:"5 الحلقة ",title:"<img src=' https://i.ytimg.com/vi/wgt_5KdfcwY/mqdefault.jpg' class=' BQ ' > <div style='position:absolute;right:10px;bottom:10px;background:#ff0000;color:#fff;padding:0px 5px;font-size:14x'> 5 الحلقة </div>",
+poster:" https://i.ytimg.com/vi/wgt_5KdfcwY/mqdefault.jpg ",
+file:"[lq]https://www.youtube.com/embed/X_bMgv4E4hY&playlist?list=PLtWl2fmR7dOgTgkepFguPZM7q87is0oz3?enablejsapi=1&playerapiid=pljs_yt_mytube_player&fs=0&controls=0&showinfo=0&rel=0&autoplay=1&loop=0&mute=0&title=0&html5=0&disablekb=1&modestbranding=1&autohide=1&wmode=transparent&loop=0&byline=0&portrait=1&color=black&iv_load_policy=3&widgetid=1",hls:"0",qualities:"240p,720p"},
+
+{id:"6 الحلقة ",title:"<img src=' https://i.ytimg.com/vi/wgt_5KdfcwY/mqdefault.jpg' class=' BQ ' > <div style='position:absolute;right:10px;bottom:10px;background:#ff0000;color:#fff;padding:0px 5px;font-size:14x'> 6 الحلقة </div>",
+poster:" https://i.ytimg.com/vi/wgt_5KdfcwY/mqdefault.jpg ",
+file:"[lq]https://www.youtube.com/embed/4n-YqviTtN0&playlist?list=PLtWl2fmR7dOgTgkepFguPZM7q87is0oz3?enablejsapi=1&playerapiid=pljs_yt_mytube_player&fs=0&controls=0&showinfo=0&rel=0&autoplay=1&loop=0&mute=0&title=0&html5=0&disablekb=1&modestbranding=1&autohide=1&wmode=transparent&loop=0&byline=0&portrait=1&color=black&iv_load_policy=3&widgetid=1",hls:"0",qualities:"240p,720p"},
+
+{id:"7 الحلقة ",title:"<img src=' https://i.ytimg.com/vi/wgt_5KdfcwY/mqdefault.jpg' class=' BQ ' > <div style='position:absolute;right:10px;bottom:10px;background:#ff0000;color:#fff;padding:0px 5px;font-size:14x'> 7 الحلقة </div>",
+poster:" https://i.ytimg.com/vi/wgt_5KdfcwY/mqdefault.jpg ",
+file:"[lq]https://www.youtube.com/embed/7e-T2_hI8Qk&playlist?list=PLtWl2fmR7dOgTgkepFguPZM7q87is0oz3?enablejsapi=1&playerapiid=pljs_yt_mytube_player&fs=0&controls=0&showinfo=0&rel=0&autoplay=1&loop=0&mute=0&title=0&html5=0&disablekb=1&modestbranding=1&autohide=1&wmode=transparent&loop=0&byline=0&portrait=1&color=black&iv_load_policy=3&widgetid=1",hls:"0",qualities:"240p,720p"},
+
+{id:"8 الحلقة ",title:"<img src=' https://i.ytimg.com/vi/wgt_5KdfcwY/mqdefault.jpg' class=' BQ ' > <div style='position:absolute;right:10px;bottom:10px;background:#ff0000;color:#fff;padding:0px 5px;font-size:14x'> 8 الحلقة </div>",
+poster:" https://i.ytimg.com/vi/wgt_5KdfcwY/mqdefault.jpg ",
+file:"[lq]https://www.youtube.com/embed/psBrgPlBQns&playlist?list=PLtWl2fmR7dOgTgkepFguPZM7q87is0oz3?enablejsapi=1&playerapiid=pljs_yt_mytube_player&fs=0&controls=0&showinfo=0&rel=0&autoplay=1&loop=0&mute=0&title=0&html5=0&disablekb=1&modestbranding=1&autohide=1&wmode=transparent&loop=0&byline=0&portrait=1&color=black&iv_load_policy=3&widgetid=1",hls:"0",qualities:"240p,720p"},
+
+{id:"9 الحلقة ",title:"<img src=' https://i.ytimg.com/vi/wgt_5KdfcwY/mqdefault.jpg' class=' BQ ' > <div style='position:absolute;right:10px;bottom:10px;background:#ff0000;color:#fff;padding:0px 5px;font-size:14x'> 9 الحلقة </div>",
+poster:" https://i.ytimg.com/vi/wgt_5KdfcwY/mqdefault.jpg ",
+file:"[lq]https://www.youtube.com/embed/oh_bL4x7Tm8&playlist?list=PLtWl2fmR7dOgTgkepFguPZM7q87is0oz3?enablejsapi=1&playerapiid=pljs_yt_mytube_player&fs=0&controls=0&showinfo=0&rel=0&autoplay=1&loop=0&mute=0&title=0&html5=0&disablekb=1&modestbranding=1&autohide=1&wmode=transparent&loop=0&byline=0&portrait=1&color=black&iv_load_policy=3&widgetid=1",hls:"0",qualities:"240p,720p"},
+
+{id:"10 الحلقة ",title:"<img src=' https://i.ytimg.com/vi/wgt_5KdfcwY/mqdefault.jpg' class=' BQ ' > <div style='position:absolute;right:10px;bottom:10px;background:#ff0000;color:#fff;padding:0px 5px;font-size:14x'> 10 الحلقة </div>",
+poster:" https://i.ytimg.com/vi/wgt_5KdfcwY/mqdefault.jpg ",
+file:"[lq]https://www.youtube.com/embed/DpHesyUi_Xc&playlist?list=PLtWl2fmR7dOgTgkepFguPZM7q87is0oz3?enablejsapi=1&playerapiid=pljs_yt_mytube_player&fs=0&controls=0&showinfo=0&rel=0&autoplay=1&loop=0&mute=0&title=0&html5=0&disablekb=1&modestbranding=1&autohide=1&wmode=transparent&loop=0&byline=0&portrait=1&color=black&iv_load_policy=3&widgetid=1",hls:"0",qualities:"240p,720p"},
+
+{id:"11 الحلقة ",title:"<img src=' https://i.ytimg.com/vi/wgt_5KdfcwY/mqdefault.jpg' class=' BQ ' > <div style='position:absolute;right:10px;bottom:10px;background:#ff0000;color:#fff;padding:0px 5px;font-size:14x'> 11 الحلقة </div>",
+poster:" https://i.ytimg.com/vi/wgt_5KdfcwY/mqdefault.jpg ",
+file:"[lq]https://www.youtube.com/embed/48zsd80AvZU&playlist?list=PLtWl2fmR7dOgTgkepFguPZM7q87is0oz3?enablejsapi=1&playerapiid=pljs_yt_mytube_player&fs=0&controls=0&showinfo=0&rel=0&autoplay=1&loop=0&mute=0&title=0&html5=0&disablekb=1&modestbranding=1&autohide=1&wmode=transparent&loop=0&byline=0&portrait=1&color=black&iv_load_policy=3&widgetid=1",hls:"0",qualities:"240p,720p"},
+
+{id:"12 الحلقة ",title:"<img src=' https://i.ytimg.com/vi/wgt_5KdfcwY/mqdefault.jpg' class=' BQ ' > <div style='position:absolute;right:10px;bottom:10px;background:#ff0000;color:#fff;padding:0px 5px;font-size:14x'> 12 الحلقة </div>",
+poster:" https://i.ytimg.com/vi/wgt_5KdfcwY/mqdefault.jpg ",
+file:"[lq]https://www.youtube.com/embed/dsWBu20WDrg&playlist?list=PLtWl2fmR7dOgTgkepFguPZM7q87is0oz3?enablejsapi=1&playerapiid=pljs_yt_mytube_player&fs=0&controls=0&showinfo=0&rel=0&autoplay=1&loop=0&mute=0&title=0&html5=0&disablekb=1&modestbranding=1&autohide=1&wmode=transparent&loop=0&byline=0&portrait=1&color=black&iv_load_policy=3&widgetid=1",hls:"0",qualities:"240p,720p"},
+
+{id:"13 الحلقة ",title:"<img src=' https://i.ytimg.com/vi/wgt_5KdfcwY/mqdefault.jpg' class=' BQ ' > <div style='position:absolute;right:10px;bottom:10px;background:#ff0000;color:#fff;padding:0px 5px;font-size:14x'> 13 الحلقة </div>",
+poster:" https://i.ytimg.com/vi/wgt_5KdfcwY/mqdefault.jpg ",
+file:"[lq]https://www.youtube.com/embed/jBI9ILh4JqE&playlist?list=PLtWl2fmR7dOgTgkepFguPZM7q87is0oz3?enablejsapi=1&playerapiid=pljs_yt_mytube_player&fs=0&controls=0&showinfo=0&rel=0&autoplay=1&loop=0&mute=0&title=0&html5=0&disablekb=1&modestbranding=1&autohide=1&wmode=transparent&loop=0&byline=0&portrait=1&color=black&iv_load_policy=3&widgetid=1",hls:"0",qualities:"240p,720p"},
+
+{id:"14 الحلقة ",title:"<img src=' https://i.ytimg.com/vi/wgt_5KdfcwY/mqdefault.jpg' class=' BQ ' > <div style='position:absolute;right:10px;bottom:10px;background:#ff0000;color:#fff;padding:0px 5px;font-size:14x'> 14 الحلقة </div>",
+poster:" https://i.ytimg.com/vi/wgt_5KdfcwY/mqdefault.jpg ",
+file:"[lq]https://www.youtube.com/embed/UkIxlMayFpc&playlist?list=PLtWl2fmR7dOgTgkepFguPZM7q87is0oz3?enablejsapi=1&playerapiid=pljs_yt_mytube_player&fs=0&controls=0&showinfo=0&rel=0&autoplay=1&loop=0&mute=0&title=0&html5=0&disablekb=1&modestbranding=1&autohide=1&wmode=transparent&loop=0&byline=0&portrait=1&color=black&iv_load_policy=3&widgetid=1",hls:"0",qualities:"240p,720p"},
+
+{id:"15 الحلقة ",title:"<img src=' https://i.ytimg.com/vi/wgt_5KdfcwY/mqdefault.jpg' class=' BQ ' > <div style='position:absolute;right:10px;bottom:10px;background:#ff0000;color:#fff;padding:0px 5px;font-size:14x'> 15 الحلقة </div>",
+poster:" https://i.ytimg.com/vi/wgt_5KdfcwY/mqdefault.jpg ",
+file:"[lq]https://www.youtube.com/embed/DNwLY646q6g&playlist?list=PLtWl2fmR7dOgTgkepFguPZM7q87is0oz3?enablejsapi=1&playerapiid=pljs_yt_mytube_player&fs=0&controls=0&showinfo=0&rel=0&autoplay=1&loop=0&mute=0&title=0&html5=0&disablekb=1&modestbranding=1&autohide=1&wmode=transparent&loop=0&byline=0&portrait=1&color=black&iv_load_policy=3&widgetid=1",hls:"0",qualities:"240p,720p"},
+
+{id:"16 الحلقة ",title:"<img src=' https://i.ytimg.com/vi/wgt_5KdfcwY/mqdefault.jpg' class=' BQ ' > <div style='position:absolute;right:10px;bottom:10px;background:#ff0000;color:#fff;padding:0px 5px;font-size:14x'> 16 الحلقة </div>",
+poster:" https://i.ytimg.com/vi/wgt_5KdfcwY/mqdefault.jpg ",
+file:"[lq]https://www.youtube.com/embed/uYpwxTi47ZE&playlist?list=PLtWl2fmR7dOgTgkepFguPZM7q87is0oz3?enablejsapi=1&playerapiid=pljs_yt_mytube_player&fs=0&controls=0&showinfo=0&rel=0&autoplay=1&loop=0&mute=0&title=0&html5=0&disablekb=1&modestbranding=1&autohide=1&wmode=transparent&loop=0&byline=0&portrait=1&color=black&iv_load_policy=3&widgetid=1",hls:"0",qualities:"240p,720p"},
+
+{id:"17 الحلقة ",title:"<img src=' https://i.ytimg.com/vi/wgt_5KdfcwY/mqdefault.jpg' class=' BQ ' > <div style='position:absolute;right:10px;bottom:10px;background:#ff0000;color:#fff;padding:0px 5px;font-size:14x'> 17 الحلقة </div>",
+poster:" https://i.ytimg.com/vi/wgt_5KdfcwY/mqdefault.jpg ",
+file:"[lq]https://www.youtube.com/embed/pxiuWXPAb7o&playlist?list=PLtWl2fmR7dOgTgkepFguPZM7q87is0oz3?enablejsapi=1&playerapiid=pljs_yt_mytube_player&fs=0&controls=0&showinfo=0&rel=0&autoplay=1&loop=0&mute=0&title=0&html5=0&disablekb=1&modestbranding=1&autohide=1&wmode=transparent&loop=0&byline=0&portrait=1&color=black&iv_load_policy=3&widgetid=1",hls:"0",qualities:"240p,720p"},
+
+{id:"18 الحلقة ",title:"<img src=' https://i.ytimg.com/vi/wgt_5KdfcwY/mqdefault.jpg' class=' BQ ' > <div style='position:absolute;right:10px;bottom:10px;background:#ff0000;color:#fff;padding:0px 5px;font-size:14x'> 18 الحلقة </div>",
+poster:" https://i.ytimg.com/vi/wgt_5KdfcwY/mqdefault.jpg ",
+file:"[lq]https://www.youtube.com/embed/iW8KJUYU2UY&playlist?list=PLtWl2fmR7dOgTgkepFguPZM7q87is0oz3?enablejsapi=1&playerapiid=pljs_yt_mytube_player&fs=0&controls=0&showinfo=0&rel=0&autoplay=1&loop=0&mute=0&title=0&html5=0&disablekb=1&modestbranding=1&autohide=1&wmode=transparent&loop=0&byline=0&portrait=1&color=black&iv_load_policy=3&widgetid=1",hls:"0",qualities:"240p,720p"},
+
+{id:"19 الحلقة ",title:"<img src=' https://i.ytimg.com/vi/wgt_5KdfcwY/mqdefault.jpg' class=' BQ ' > <div style='position:absolute;right:10px;bottom:10px;background:#ff0000;color:#fff;padding:0px 5px;font-size:14x'> الحلقة الاخيرة </div>",
+poster:" https://i.ytimg.com/vi/wgt_5KdfcwY/mqdefault.jpg ",
+file:"[lq]https://www.youtube.com/embed/9ckrzvMigYA&playlist?list=PLtWl2fmR7dOgTgkepFguPZM7q87is0oz3?enablejsapi=1&playerapiid=pljs_yt_mytube_player&fs=0&controls=0&showinfo=0&rel=0&autoplay=1&loop=0&mute=0&title=0&html5=0&disablekb=1&modestbranding=1&autohide=1&wmode=transparent&loop=0&byline=0&portrait=1&color=black&iv_load_policy=3&widgetid=1",hls:"0",qualities:"240p,720p"},
+
+
+
+]
