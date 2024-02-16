@@ -1,4 +1,4 @@
-[
+
 
 {id:"1 الحلقة ",title:"<img src=' https://i.ytimg.com/vi/wgt_5KdfcwY/mqdefault.jpg' class=' BQ ' > <div style='position:absolute;right:10px;bottom:10px;background:#ff0000;color:#fff;padding:0px 5px;font-size:14x'> 1 الحلقة </div>",
 poster:" https://i.ytimg.com/vi/wgt_5KdfcwY/mqdefault.jpg ",
@@ -78,4 +78,3 @@ file:"[lq]https://www.youtube.com/embed/9ckrzvMigYA&playlist?list=PLtWl2fmR7dOgT
 
 
 
-]
