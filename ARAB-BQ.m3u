@@ -1,5 +1,5 @@
 #EXTM3U
-========ISLAM=======
+#EXTINF:-1 ,========ISLAM=======
 #EXTINF:-1 ,SAOUDI QURAN
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 ,SAOUDI QURAN2
@@ -18,8 +18,65 @@ https://ahlualquran.tv:25463/live/ahlutv/live-tv/1.m3u8
 http://jmc-live.ercdn.net/alhaqiqa/alhaqiqa_360p.m3u8
 #EXTINF:-1 ,QAF
 https://mn-nl.mncdn.com/qaf/live/playlist.m3u8
-========NEWS=======
+#EXTINF:-1 ,========NEWS=======
 #EXTINF:-1 ,FRANCE 24
 https://new.cache-stream.workers.dev/stream/VuYzy8IuT0Y/live.m3u8
 #EXTINF:-1 ,AL ARABIYA
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 ,ALHADATH
+https://svs.itworkscdn.net/alarabiyalive/alhadathhd.smil/playlist.m3u8
+#EXTINF:-1 ,ALJAZEERA
+https://live-hls-web-aja-fa.getaj.net/AJA/index.m3u8
+#EXTINF:-1 ,ALJAZEERA M
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+#EXTINF:-1 ,ESHARQ N
+https://asharq-prod-dub-ak.akamaized.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8
+#EXTINF:-1 ,AL_ARABY 1
+https://alarabyta.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b350000.m3u8
+#EXTINF:-1 ,AL_ARABY 2
+https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist_b350000.m3u8#EXTINF:-1 ,BBC AR
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
+#EXTINF:-1 ,SKY_NEWS AR
+https://stream.skynewsarabia.com/hls/sna_360.m3u8
+#EXTINF:-1 ,RT_TV AR
+https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
+#EXTINF:-1 ,TV5_MAG AR
+https://ott.tv5monde.com/Content/HLS/Live/channel(orient)/variant.m3u8
+#EXTINF:-1 ,DW_TV AR
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream01/streamPlaylist.m3u8
+#EXTINF:-1 ,AL HIWAR AR
+https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
+#EXTINF:-1 ,I24 AR
+https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/profile_4/chunklist.m3u8
+#EXTINF:-1 ,ALMAYADEEN AR
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+#EXTINF:-1 ,ALMASHAD AR
+https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/playlist.m3u8
+#EXTINF:-1 ,ALQUDS AR
+http://162.19.37.133:8080//live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/97821.m3u8
+#EXTINF:-1 ,ALALAM AR
+https://live2.alalam.ir/alalam.m3u8
+#EXTINF:-1 ,Alhurra_TV AR
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/merge.m3u8
+#EXTINF:-1 ,Alghad_TV AR
+https://new.cache-stream.workers.dev/stream/9WdJul7wgV4/live.m3u8
+#EXTINF:-1 ,TRT_TV AR
+https://ythls.armelin.one/channel/UC5GvVahlgulCyo4cshSmbcg.m3u8
+#EXTINF:-1 ,AlMANAR_TV AR
+https://edge.fastpublish.me/live/index.m3u8
+#EXTINF:-1 ,PALESTINE_TV AR
+https://pbc.furrera.ps/palestinelivehd/index.m3u8
+#EXTINF:-1 ,AQSA_TV AR
+https://s1.ettehadlive.com/live/68/playlist.m3u8  
+#EXTINF:-1 ,MAKAN_TV AR
+https://makan.media.kan.org.il/hls/live/2024680-b/2024680/source1_600/chunklist.m3u8
+#EXTINF:-1 ,NAJAH_TV AR
+https://streaming.najah.edu:8443/hls/AlNajah_low/index.m3u8 
+#EXTINF:-1 ,CNN_TV AR
+https://s1.ettehadlive.com/live/29/playlist.m3u8
+#EXTINF:-1 ,CGTNA_TV AR 📡
+https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
+#EXTINF:-1 ,ALMAMLAKA_TV AR 📡
+https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
+
+
