@@ -1,3 +1,25 @@
 #EXTM3U
+========ISLAM=======
 #EXTINF:-1 ,SAOUDI QURAN
-https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+#EXTINF:-1 ,SAOUDI QURAN2
+https://win.holol.com/live/quran/playlist.m3u8
+#EXTINF:-1 ,SAOUDI SUNNA
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+#EXTINF:-1 ,SAOUDI SUNNA2
+https://win.holol.com/live/sunnah/playlist.m3u8
+#EXTINF:-1 ,MAKKA
+https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+#EXTINF:-1 ,BAHRAIN QURAN 
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
+#EXTINF:-1 ,AHL QURAN
+https://ahlualquran.tv:25463/live/ahlutv/live-tv/1.m3u8
+#EXTINF:-1 ,ALHAQUIQA
+http://jmc-live.ercdn.net/alhaqiqa/alhaqiqa_360p.m3u8
+#EXTINF:-1 ,QAF
+https://mn-nl.mncdn.com/qaf/live/playlist.m3u8
+========NEWS=======
+#EXTINF:-1 ,FRANCE 24
+https://new.cache-stream.workers.dev/stream/VuYzy8IuT0Y/live.m3u8
+#EXTINF:-1 ,AL ARABIYA
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
