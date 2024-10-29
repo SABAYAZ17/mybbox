@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:-1 ,========ISLAM=======
+https://win.holol.com/live/quran/playlist.m3u8
 #EXTINF:-1 ,SAOUDI QURAN
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 ,SAOUDI QURAN2
@@ -19,6 +20,7 @@ http://jmc-live.ercdn.net/alhaqiqa/alhaqiqa_360p.m3u8
 #EXTINF:-1 ,QAF
 https://mn-nl.mncdn.com/qaf/live/playlist.m3u8
 #EXTINF:-1 ,========NEWS=======
+https://new.cache-stream.workers.dev/stream/VuYzy8IuT0Y/live.m3u8
 #EXTINF:-1 ,FRANCE 24
 https://new.cache-stream.workers.dev/stream/VuYzy8IuT0Y/live.m3u8
 #EXTINF:-1 ,AL ARABIYA
