@@ -48,6 +48,8 @@ https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/profile_4/chunklist.m3u8
 #EXTINF:-1 ,ALMAYADEEN AR
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+#EXTINF:-1 ,ALMAYADEEN2 AR
+https://s1.ettehadlive.com/live/66/playlist.m3u8
 #EXTINF:-1 ,ALMASHAD AR
 https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/playlist.m3u8
 #EXTINF:-1 ,ALQUDS AR
@@ -76,6 +78,12 @@ https://s1.ettehadlive.com/live/29/playlist.m3u8
 https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
 #EXTINF:-1 ,ALMAMLAKA_TV AR 📡
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
+
+#EXTINF:-1 ,========DOC=======
+https://new.cache-stream.workers.dev/stream/VuYzy8IuT0Y/live.m3u8
+#EXTINF:-1 tvg-id="AbuDhabiAloula.ae",NAT_GEO AD📡
+https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
+
 #EXTINF:-1 ,========GOLF=======
 https://new.cache-stream.workers.dev/stream/VuYzy8IuT0Y/live.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiAloula.ae",ABUDHABI1📡
