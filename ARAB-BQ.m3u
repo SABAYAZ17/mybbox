@@ -1,15 +1,11 @@
 #EXTM3U
 #EXTINF:-1 ,========ISLAM=======
-https://win.holol.com/live/quran/playlist.m3u8
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
 #EXTINF:-1 ,SAOUDI QURAN
-http://m.live.net.sa:1935/live/quran/playlist.m3u8
-#EXTINF:-1 ,SAOUDI QURAN2
-https://win.holol.com/live/quran/playlist.m3u8
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
 #EXTINF:-1 ,SAOUDI SUNNA
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
-#EXTINF:-1 ,SAOUDI SUNNA2
-https://win.holol.com/live/sunnah/playlist.m3u8
-#EXTINF:-1 ,MAKKA
+#EXTINF:-1 ,MAKKAH
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 #EXTINF:-1 ,BAHRAIN QURAN 
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
@@ -80,5 +76,15 @@ https://s1.ettehadlive.com/live/29/playlist.m3u8
 https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
 #EXTINF:-1 ,ALMAMLAKA_TV AR 📡
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
+#EXTINF:-1 ,========GOLF=======
+https://new.cache-stream.workers.dev/stream/VuYzy8IuT0Y/live.m3u8
+#EXTINF:-1 tvg-id="AbuDhabiAloula.ae",ABUDHABI1📡
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
+#EXTINF:-1 tvg-id="AbuDhabiEmirates.ae",ABUDHABI2 E📡
+https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
+#EXTINF:-1 tvg-id="AbuDhabiSports1.ae",ABUDHABI SP1📡 
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+#EXTINF:-1 tvg-id="AbuDhabiSports2.ae",ABUDHABI SP2📡 
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
 
 
