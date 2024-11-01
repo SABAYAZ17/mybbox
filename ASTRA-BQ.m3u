@@ -1,4 +1,5 @@
 #EXTM3U
 #EXTINF:-1 ,========ISLAM=======
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
-#EXTINF:-1 ,SAOUDI QURAN
+#EXTINF:-1 ,TF1
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B8:80:13&stream=58943&extension=.m3u8
