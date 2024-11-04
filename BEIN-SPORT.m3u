@@ -1,0 +1,329 @@
+#EXTM3U
+#EXTINF:-1,--|SERVER1|--
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/59304.m3u8
+#EXTINF:-1,AR| BSPNEWS
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/59305.m3u8
+
+#EXTINF:-1,AR| BSPPremium 1 FHD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/192758.m3u8
+#EXTINF:-1,AR| BSPPremium 2 FHD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/192757.m3u8
+#EXTINF:-1,AR| BSPPremium 3 FHD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/192756.m3u8
+
+#EXTINF:-1,AR| BSP1 FHD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/59306.m3u8
+#EXTINF:-1,AR| BSP1 HD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/192767.m3u8
+#EXTINF:-1,AR| BSP1 SD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/192754.m3u8
+
+#EXTINF:-1,AR| BSP2 FHD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/59307.m3u8
+#EXTINF:-1,AR| BSP2 HD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/192766.m3u8
+#EXTINF:-1,AR| BSP2 SD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/192753.m3u8
+
+#EXTINF:-1,AR| BSP3 FHD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/59308.m3u8
+#EXTINF:-1,AR| BSP3 HD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/192765.m3u8
+#EXTINF:-1,AR| BSP3 SD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/192752.m3u8
+
+#EXTINF:-1,AR| BSP4 FHD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/59309.m3u8
+#EXTINF:-1,AR| BSP4 HD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/192764.m3u8
+#EXTINF:-1,AR| BSP4 SD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/192751.m3u8
+
+#EXTINF:-1,AR| BSP5 FHD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/59310.m3u8
+#EXTINF:-1,AR| BSP5 HD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/192763.m3u8
+#EXTINF:-1,AR| BSP5 SD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/192750.m3u8
+
+#EXTINF:-1,AR| BSP6 FHD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/59311.m3u8
+#EXTINF:-1,AR| BSP6 HD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/192762.m3u8
+#EXTINF:-1,AR| BSP6 SD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/192749.m3u8
+
+
+#EXTINF:-1,AR| BSP7 FHD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/59312.m3u8
+#EXTINF:-1,AR| BSP7 HD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/192761.m3u8
+#EXTINF:-1,AR| BSP7 SD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/192748.m3u8
+
+#EXTINF:-1,AR| BSP8 HD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/192760.m3u8
+
+#EXTINF:-1,FR| BSP1 FHD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/2816.m3u8
+#EXTINF:-1,FR| BSP1 HD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/2817.m3u8
+#EXTINF:-1,FR| BSP1 HEVC
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/124773.m3u8
+#EXTINF:-1,FR| BSP1 SD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/59062.m3u8
+#EXTINF:-1,FR| BSP2 FHD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/2818.m3u8
+#EXTINF:-1,FR| BSP2 HD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/2819.m3u8
+#EXTINF:-1,FR| BSP2 HEVC
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/124774.m3u8
+#EXTINF:-1,FR| BSP2 SD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/59063.m3u8
+#EXTINF:-1,FR| BSP3 FHD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/2820.m3u8
+#EXTINF:-1,FR| BSP3 HD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/2821.m3u8
+#EXTINF:-1,FR| BSP3 HEVC
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/124775.m3u8
+#EXTINF:-1,FR| BSP3 SD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/59064.m3u8
+#EXTINF:-1,FR| BSPMAX 4 FHD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/80079.m3u8
+#EXTINF:-1,FR| BSPMAX 4 HD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/2822.m3u8
+#EXTINF:-1,FR| BSPMAX 4 SD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/59066.m3u8
+#EXTINF:-1,FR| BSPMAX 5 FHD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/80080.m3u8
+#EXTINF:-1,FR| BSPMAX 5 HD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/2823.m3u8
+#EXTINF:-1,FR| BSPMAX 5 SD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/59067.m3u8
+#EXTINF:-1,FR| BSPMAX 6 FHD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/80081.m3u8
+#EXTINF:-1,FR| BSPMAX 6 HD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/2824.m3u8
+#EXTINF:-1,FR| BSPMAX 6 SD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/59068.m3u8
+#EXTINF:-1,FR| BSPMAX 7 FHD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/80082.m3u8
+#EXTINF:-1,FR| BSPMAX 7 HD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/2825.m3u8
+#EXTINF:-1,FR| BSPMAX 7 SD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/59069.m3u8
+#EXTINF:-1,FR| BSPMAX 8 FHD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/80083.m3u8
+#EXTINF:-1,FR| BSPMAX 8 HD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/2826.m3u8
+#EXTINF:-1,FR| BSPMAX 8 SD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/59070.m3u8
+#EXTINF:-1,FR| BSPMAX 9 FHD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/80084.m3u8
+#EXTINF:-1,FR| BSPMAX 9 HD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/2827.m3u8
+#EXTINF:-1,FR| BSPMAX 9 SD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/59071.m3u8
+#EXTINF:-1,FR| BSPMAX 10 FHD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/80085.m3u8
+#EXTINF:-1,FR| BSPMAX 10 HD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/2828.m3u8
+#EXTINF:-1,FR| BSPMAX 10 SD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/59065.m3u8
+#EXTINF:-1,EURO-24| BSP1 FHD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/779037.m3u8
+#EXTINF:-1,EURO-24| BSP1 HD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/779038.m3u8
+#EXTINF:-1,EURO-24| BSP2 FHD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/779039.m3u8
+#EXTINF:-1,EURO-24| BSP2 HD
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/779040.m3u8
+
+#EXTINF:-1,--|SERVER3|--
+http://fmytv.com:8080/live/Aqw6kUMpnnkr7Y9/mRz6HG2yBWoEfC6/59304.m3u8
+#EXTINF:-1,|AR| BSPNEWS HD
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/9152.m3u8
+#EXTINF:-1,|AR| BSPNEWS FHD
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/92512.m3u8
+
+#EXTINF:-1,|AR| BSP1 SD
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/32008.m3u8
+#EXTINF:-1,|AR| BSP1 HD
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/9146.m3u8
+#EXTINF:-1,|AR| BSP1 FHD
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/9147.m3u8
+#EXTINF:-1,|AR| BSP1 FHD HEVC
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/39224.m3u8
+#EXTINF:-1,|AR| BSP1 FHD 4K
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/30756.m3u8
+
+#EXTINF:-1,|AR| BSP 2 SD
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/32007.m3u8
+#EXTINF:-1,|AR| BSP2 SD
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/32014.m3u8
+#EXTINF:-1,|AR| BSP2 HD
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/9148.m3u8
+#EXTINF:-1,|AR| BSP2 FHD
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/9135.m3u8
+#EXTINF:-1,|AR| BSP2 FHD 4K
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/30751.m3u8
+#EXTINF:-1,|AR| BSP 2 FHD 4K
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/30757.m3u8
+#EXTINF:-1,|AR| BSP2 FHD HEVC
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/39225.m3u8
+
+#EXTINF:-1,|AR| BSP3 SD
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/32006.m3u8
+#EXTINF:-1,|AR| BSP3 HD
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/9136.m3u8
+#EXTINF:-1,|AR| BSP3 FHD
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/9151.m3u8
+#EXTINF:-1,|AR| BSP3 FHD 4K
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/30758.m3u8
+#EXTINF:-1,|AR| BSP3 FHD HEVC
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/28267.m3u8
+
+#EXTINF:-1,|AR| BSP4 SD
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/32012.m3u8
+#EXTINF:-1,|AR| BSP4 HD
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/9138.m3u8
+#EXTINF:-1,|AR| BSP4 FHD
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/103764.m3u8
+#EXTINF:-1,|AR| BSP4 FHD 4K
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/30755.m3u8
+#EXTINF:-1,|AR| BSP4 FHD HEVC
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/28268.m3u8
+
+#EXTINF:-1,|AR| BSP5 SD
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/32011.m3u8
+#EXTINF:-1,|AR| BSP5 HD
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/9140.m3u8
+#EXTINF:-1,|AR| BSP5 FHD
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/9141.m3u8
+#EXTINF:-1,|AR| BSP5 FHD 4K
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/30754.m3u8
+#EXTINF:-1,|AR| BSP5 FHD HEVC
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/28269.m3u8
+
+#EXTINF:-1,|AR| BSP6 SD
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/124095.m3u8
+#EXTINF:-1,|AR| BSP6 HD
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/9142.m3u8
+#EXTINF:-1,|AR| BSP6 FHD
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/9143.m3u8
+#EXTINF:-1,|AR| BSP6 FHD 4K
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/30759.m3u8
+#EXTINF:-1,|AR| BSP6 FHD HEVC
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/28270.m3u8
+
+#EXTINF:-1,|AR| BSP7 SD
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/32009.m3u8
+#EXTINF:-1,|AR| BSP7 HD
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/9144.m3u8
+#EXTINF:-1,|AR| BSP7 FHD
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/9145.m3u8
+#EXTINF:-1,|AR| BSP7 FHD 4K
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/30760.m3u8
+#EXTINF:-1,|AR| BSP7 FHD HEVC
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/28271.m3u8
+
+#EXTINF:-1,|AR| BSP8 SD
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/279954.m3u8
+#EXTINF:-1,|AR| BSP8 HD
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/279955.m3u8
+#EXTINF:-1,|AR| BSP8 FHD
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/279956.m3u8
+#EXTINF:-1,|AR| BSP8 FHD 4K
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/279961.m3u8
+#EXTINF:-1,|AR| BSP8 FHD HEVC
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/279962.m3u8
+
+#EXTINF:-1,|AR| BSPENGLISH 1 HD
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/9153.m3u8
+#EXTINF:-1,|AR| BSPENGLISH 2 HD
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/9154.m3u8
+#EXTINF:-1,|AR| BSPENGLISH 3 HD
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/9155.m3u8
+#EXTINF:-1,|AR| BSPXTRA 1 HD
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/119957.m3u8
+#EXTINF:-1,|AR| BSPXTRA 2 HD
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/119958.m3u8
+
+#EXTINF:-1,|AR| BSPFRENCH 1 HD
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/124099.m3u8
+#EXTINF:-1,|AR| BSPFRENCH 2 HD
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/124097.m3u8
+#EXTINF:-1,|AR| BSPFRENCH 3 HD
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/124098.m3u8
+
+#EXTINF:-1,|AR| BSP1 MAX SD
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/124070.m3u8
+#EXTINF:-1,|AR| BSP1 MAX HD
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/124071.m3u8
+#EXTINF:-1,|AR| BSP1 MAX FHD
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/124072.m3u8
+#EXTINF:-1,|AR| BSP1 MAX FHD HEVC
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/124073.m3u8
+#EXTINF:-1,|AR| BSP1 MAX 4K
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/124074.m3u8
+#EXTINF:-1,|AR| BSP2 MAX SD
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/124075.m3u8
+#EXTINF:-1,|AR| BSP2 MAX HD
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/124076.m3u8
+#EXTINF:-1,|AR| BSP2 MAX FHD
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/124077.m3u8
+#EXTINF:-1,|AR| BSP2 MAX FHD HEVC
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/124078.m3u8
+#EXTINF:-1,|AR| BSP2 MAX 4K
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/124079.m3u8
+#EXTINF:-1,|AR| BSP3 MAX SD
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/124080.m3u8
+#EXTINF:-1,|AR| BSP3 MAX HD
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/124081.m3u8
+#EXTINF:-1,|AR| BSP3 MAX FHD
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/124082.m3u8
+#EXTINF:-1,|AR| BSP3 MAX FHD HEVC
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/124083.m3u8
+#EXTINF:-1,|AR| BSP3 MAX 4K
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/124084.m3u8
+#EXTINF:-1,|AR| BSP4 MAX SD
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/124085.m3u8
+#EXTINF:-1,|AR| BSP4 MAX HD
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/124086.m3u8
+#EXTINF:-1,|AR| BSP4 MAX FHD
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/124087.m3u8
+#EXTINF:-1,|AR| BSP4 MAX FHD HEVC
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/124088.m3u8
+#EXTINF:-1,|AR| BSP4 MAX 4K
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/124089.m3u8
+
+#EXTINF:-1,|AR| BSPCOPA AMERICA 1 SD
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/124090.m3u8
+#EXTINF:-1,|AR| BSPCOPA AMERICA 2 HD
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/124096.m3u8
+#EXTINF:-1,|AR| BSPCOPA AMERICA 3 HD
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/310038.m3u8
+#EXTINF:-1,|AR| BSPCOPA AMERICA 3 FHD
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/310039.m3u8
+#EXTINF:-1,|AR| BSPCOPA AMERICA 3 FHD HEVC
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/310040.m3u8
+#EXTINF:-1,|AR| BSPCOPA AMERICA 3 4K
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/310041.m3u8
+#EXTINF:-1,|AR| BSPCOPA AMERICA 3 SD
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/310037.m3u8
+#EXTINF:-1,|AR| BSPCOPA AMERICA 2 SD
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/310036.m3u8
+#EXTINF:-1,|AR| BSPCOPA AMERICA 2 4K
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/248955.m3u8
+#EXTINF:-1,|AR| BSPCOPA AMERICA 2 FHD HEVC
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/248954.m3u8
+#EXTINF:-1,|AR| BSPCOPA AMERICA 2 FHD
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/152293.m3u8
+#EXTINF:-1,|AR| BSPCOPA AMERICA 1 HD
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/124091.m3u8
+#EXTINF:-1,|AR| BSPCOPA AMERICA 1 FHD
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/124092.m3u8
+#EXTINF:-1,|AR| BSPCOPA AMERICA 1 4K
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/124094.m3u8
+#EXTINF:-1,|AR| BSPCOPA AMERICA FHD HEVC
+http://tv.pure-onetv.com:25443/live/Mowgli4/ZRFKFH0O6L/124093.m3u8
